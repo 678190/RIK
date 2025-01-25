@@ -349,7 +349,17 @@
                       "image": "https://www.telegratishd.com/imge/discoverychannel.png",
                "url": "http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8"
      
-
+       }
+         ]
+      }
+   ],
+   "stations": [
+      {
+         "name": "SERIES Y PELICULAS",
+         "image": "https://tv.tflix.app/wp-content/uploads/2024/03/banner-light2.png",
+         "imageScale": "centerCrop",
+         "url": "https://commons.wikimedia.org/wiki/File:Timelapse_Tour_Eiffel_%C3%A0_Paris.webm",
+         "isHost": true
 
         }
  
