@@ -415,7 +415,12 @@
                     "url":"https://fl2.moveonjoy.com/MTV/tracks-v1a1/mono.m3u8",
 "Host":""
 
+ }, {
 
+                  "name": "DISNEY XD",
+                      "image": "https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/13/2018/06/14153524/XD_Nav_Logo.jpg",
+                 "url": "http://user.scalecdn.co:8080/streamlive-sd/streamlive-sd/21588",
+"userAgent":"VLC/3.0.0-git LibVLC/3.0.0-git"
 
 
 
@@ -471,7 +476,12 @@
                "isHost":""
 
 
+ }, {
 
+                  "name": "COWW BOY CHANNEL",
+                      "image": "/true/crop/600x219+0+0/resize/164x60!/format/webp/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-rfdtv.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2b%2Fa9%2F7b65f03b4f3a8e69bc5326397e8a%2Fteton-ridge-tcc-logo-lockup.png",
+                 "url": "http://user.scalecdn.co:8080/streamlive-sd/streamlive-sd/401202",
+"userAgent":"VLC/3.0.0-git LibVLC/3.0.0-git"
 
 
 
@@ -488,7 +498,7 @@
  }, {
 
                   "name": "UFC",
-                      "image": "https://www.ufcstore.com/content/assets/__0-1673638822285.285.svg",
+                      "image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/ufc.png&w=288&h=288&transparent=true",
                                            "url": "http://tvmate.icu:8080/Alan/Alan1234/146293",
 "Host":true       
 
