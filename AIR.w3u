@@ -1,1 +1,50 @@
-# RIK
+{
+  "name": "TV ON ",
+  "author": "ListasWiseplay.com",
+"info": "TV",
+  "url": "https://raw.githubusercontent.com/678190/RIK/refs/heads/main/AIR.w3u",
+"image": "",
+  "groups": [
+{
+      "name": " SKY ",
+      "image": "https://www.howtogeek.com/wp-content/uploads/2017/01/roku-rebooting.gif",
+      "stations": [
+{
+                                  "name": "📶UNIVICION SIN COMERCIALES",
+                    "image": "https://1.bp.blogspot.com/-vnAB85RuxAI/XW3I0TrZnRI/AAAAAAAAAQE/vaXA_XnDYAAHM_KEyt8TjPzeu-eGTOAIACLcBGAs/s1600/univision.png",
+                                                     "url": "http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8",
+"userAgent":""
+
+
+
+
+    }, {
+                    "name": "📶TUDN CALIDAD HD",
+                      "image": "https://deporte-libre.top/img/tudn.png",
+                                                     "url": "http://belami.top/DATAS/arm/plays.php?ch=94&f=.m3u8",
+"referer":""
+
+ }
+         ]
+      },
+      { 
+         "name": "USA TV",
+         "image": "https://bestanimations.com/Flags/USA/usa-american-flag-gif-3.gif",
+         "stations": [ 
+            { 
+               "name": "NASA",
+               "image": "https://i.imgur.com/aCj27P5.png",
+               "url": "https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8"
+
+
+
+
+        }
+ 
+       
+      ]
+   
+    }
+ 
+  ]
+}
