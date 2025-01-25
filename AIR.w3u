@@ -32,11 +32,16 @@
          "image": "https://bestanimations.com/Flags/USA/usa-american-flag-gif-3.gif",
          "stations": [ 
             { 
-               "name": "NASA",
-               "image": "https://i.imgur.com/aCj27P5.png",
-               "url": "https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8"
+                 "name": "USA NETWORK ENGLISH",
+                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png",
+             "url":"https://streamer1.nexgen.bz/USA/index.m3u8",
+             "referer":""
+}, {
 
-
+                  "name": "ENGLISH discovery",
+                      "image": "https://www.telegratishd.com/imge/discoverychannel.png",
+               "url": "http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8"
+     
 
 
         }
