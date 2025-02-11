@@ -519,7 +519,7 @@
       {
          "name": "SERIES Y PELICULAS",
   "image": "",
- "url": "http://live.superteve.com:33527/get.php?username=ENVIVO&password+9Wu6os8Dmg&type=m3u",
+ "url": "http://live.superteve.com:33527get.php?username=livetv&password=9Wu6os8Dmg&type=m3u",
 "userAgent":"Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt",
 "embed":true
 
