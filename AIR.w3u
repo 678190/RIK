@@ -499,10 +499,11 @@
 
  }, {
 
-                  "name": "MAGIC",
+                  "name": "MAGIC1",
                       "image": "",
                     "url": "http://107.151.149.186:12321/live/cyx_8C6BDF0C4CAE997477_480p.m3u8",
-"referer":"www.magis4K.com"
+"referer":"www.magis4K.com",
+"userAgent":"Ranger/4.6.1-87edcdcb"
 
 
 
