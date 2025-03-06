@@ -499,11 +499,10 @@
 
  }, {
 
-                  "name": "MAG55",
+                  "name": "MAG1",
                       "image": "",
                     "url": "http://23.236.235.132:23455/live/cyx-45A8419F4A50afa206183_480p.m3u8",
-"referer":" /live/?user_id=547276842&trans_id=1kjRKaCVyy0_2b6LpUM9HMDq&app_id=magmob&host=23.236.235.132:23455&app_ver=51306&client_ip=69.249.209.174&expired=1741260217&auth_id=547276842_magmob__0&dev_id=c0457514fdbe1f33a00d393669ff9425&tag=free&sign_ver=1&token=3561849ac020f1c6e7538e9d1c3c7fb8&sign2_method=sign_o3&instance=0&start_moment=1741245837036&sign2=e4e34db40e37b8801d58a97c86d9ee19",
-"userAgent":"Ranger/4.8.3-afe7e4c8"
+"userAgent":"kY93bMe0x5gNCp8pGSHfPZFjU6bw7vbjj1v3HB7KmpuzbPbWVWe8UBV8tkwNZ2mc48YCb8272zLKPPebVhcFPSkT8DaAbtGCYeaVTt44EVEtg8b36Z3pmVz4x6UZWdk"
 
 
 
