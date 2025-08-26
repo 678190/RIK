@@ -21,17 +21,12 @@
     }, {
                     "name": "📶TUDN CALIDAD HD",
                       "image": "https://deporte-libre.top/img/tudn.png",
-                      "url":"http://u.m3uts.xyz/stream/hls/914.m3u8",
-                     "userAgent":"http://clubtv.link/my0505/phpcode/android0.php?c=709&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate%20Player/1.0.7"
+                      "url":"https://www.futbollibre2.com/envivo4/tudn.php",
+                     "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
                    
 
 
-    }, {
-                    "name": "TELEMUNDO 51",
-                      "image": "https://media.telemundo51.com/2024/08/WSCV_station_logo_dark.png",
-                          "url": "https://www.futbollibre2.com/envivo4/tudn.php",
-"referer":"https://www.futbollibre2.com/tudn-en-vivo-por-internet.html",
-"Host:"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+
 
 
 
