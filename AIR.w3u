@@ -42,35 +42,18 @@
                
                     
     }, {
-                    "name": "📶UNIVERSO LATINO33",
-                      "image": "https://imagenes.gatotv.com/logos/canales/oscuros/universo-mediano.png",
-      "url":"https://www.telextrema2.com/myr21Fs85fvd5/foxsports2mexico.php",
-                     "referer":"https://www.telextrema2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
-                   
-      
+
+                  "name": "UFC",
+                      "image": "https://tv.goluchas.com/wp-content/uploads/2022/04/Ultimate-Fighting-Championship-UFC-Logo.png",
+                                           "url": "http://fl1.moveonjoy.com/UFC/index.m3u8",
+"Host":true       
 
   
 
 
 
-                      },
-                {
-                    "name": "📶UNIMAS ",
-                    "image":"https://1.bp.blogspot.com/-nw-YQVmCdrM/XW3Izew1xtI/AAAAAAAAAP4/IeKNiLF8xlMS8i8UpPVxJAmBPmazimTZQCLcBGAs/s1600/unimas.png",
-                "url":"https://www.telextrema2.com/myr21Fs85fvd5/foxsports2mexico.php",
-                     "referer":"https://www.telextrema2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
-                   
-      
 
               
-
-   }, {
-                    "name": "📶GALAVICION ",
-                    "image": "https://www.cablevisionhd.com/imge/galavision.png",
-                                                     "url": "http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONWEST&calidad=hd&.m3u8",
-"userAgent":""
-
-
 
 
 
@@ -83,201 +66,7 @@
 
 
 
-         },
-                {
-                                     
-               "name": "📶LAS ESTRELLAS SENIAL MEX",
-                    "image": "https://telefullenvivo.org/imagenes2/estrellas.png",
-                                                                                     "url": "https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8",
-"userAgent":""
 
-
-
-         },
-                {
-                                     
-               "name": "📶N+ NOTICIAS MEX",
-                    "image": "https://www.nmas.com.mx/assets/Logo/logo.png",
-             "url":"http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10617 ",
-"userAgent":""
-
-         },
-                {
-                                     
-               "name": "📶ADN 40",
-                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/04af7c5/2147483647/strip/true/crop/588x208+0+0/resize/130x46!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Feb%2F02%2F27e0bb444a8faff6cf336e6f40ea%2Flogoadn40.png",
-                                                                                     "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
-"userAgent":""
-
-
-        },
-                {
-                                     
-               "name": "📶CANAL 5 MEX",
-                    "image": "https://www.telegratishd.com/imge/canal5.png",
-                 "url":"https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8",
-                      "Host":""
-
- 
-		 	        },
-                {
-                                     
-               "name": "📶AZTECA 7 MEX",
-                    "image": "https://www.telegratishd.com/imge/azteca7.png",
-                        "url":"https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AZTECA7/40-hls/live-media.m3u8",
-                     "userAgent":" "
-
-	 	        },
-                {
-                                     
-               "name": "📶DISTRITO COMEDIA",
-                    "image": "https://s.yimg.com/fz/api/res/1.2/ujTH3T7p.T346o1yxjWMHw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTEzMDtxPTgwO3c9MTY2/https://s.yimg.com/zb/imgv1/9c3ce254-51f1-3103-8fa8-dbd88315a605/t_500x300",
-              "url": "http://belami.top/DATAS/arm/plays.php?ch=11040&f=.m3u8",
-"userAgent":""
-
-
-
-       },
-                {
-                    "name": "📶HISTORY CHANNEL ",
-                    "image": "https://telefullenvivo.org/imagenes2/history.png",
-                  "url": "http://belami.top/DATAS/arm/plays.php?ch=9&f=.m3u8",
-"referer":""
-
-
-                      },
-                {
-                    "name": "📶NATIONAL GEOGRAPHIC ",
-                    "image": "https://x.playerlatino.live//natgeo.png",
-                "url": "http://belami.top/DATAS/arm/plays.php?ch=31&f=.m3u8",
-"referer":""
-
-
-
-           },
-                {
-                    "name": "📶DISCOVERY CHANNEL ",
-                    "image": "https://i1.wp.com/redditsport.cc/imgs/discovery.jpg",
-     "url": "http://belami.top/DATAS/arm/plays.php?ch=47&f=.m3u8",
-                    "userAgent":""
-
-
-
-
-		       },
-                {
-                    "name": "📶TLC",
-                    "image": "http://x.playerlatino.live//tlc.png",
-                 "url": "http://belami.top/DATAS/arm/plays.php?ch=72&f=.m3u8",
-                 "userAgent":""
-
-
-       },
-                {
-                    "name": "📶EL GOURMET",
-                    "image": "https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f68bb5e4ea711e0b73e7_elgourmet.png",
-                "url": "http://belami.top/DATAS/arm/plays.php?ch=71&f=.m3u8 ",
-                 "referer":"https://nebunexa.co/red/?get="
-
-
-		
-           },
-                {
-                    "name": "📶ID INVESTIGATION ",
-                    "image": "https://us1-prod-images.disco-api.com/2020/7/13/64bf8ced-f65e-4972-b026-88792776ca92.png?bf=0&f=png&p=true&q=85&w=250",
-                     "url": "http://belami.top/DATAS/arm/plays.php?ch=50&f=.m3u8",
-"userAgent":""
-        
-
-  
-
-
-  }, {
-                    "name": "FOX SPOT 2 2999",
-                    "image": "https://www.telextrema.com/imge/foxsports2.png",
-                                      "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/93",
-"referer":""
-
-
-
-    }, {
-                  "name": "BEIN OPCION 1 ",
-                    "image": "https://ligatv.televall.online/gallery/beins_thumb.png",
-                         "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/381",
-"EMBEF":true
-
- 
-       
-
- 
-    }, {
-                    "name": "SPACE00",
-                      "image": "https://2.bp.blogspot.com/-pf0it1qoPYM/Wrw9UgH3xZI/AAAAAAAAAb8/I04-5ByYhs8wNs1e9uk3UjkszgdEKhoVACLcBGAs/s1600/space.png",
-                  "url": "https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/SPACE/20-hls/live-media.m3u8",
-"referer":"https://nebunexa.co/red/?get="
-
-                    
-    }, {
-                    "name": "CINE MAX",
-                      "image": "https://i1.wp.com/redditsport.cc/imgs/cinemax-movie-max.png",
-                                  "url": "http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092596",
-"userAgent":""
-
-
-
-    }, {
-                    "name": "HBO EXTREME",
-                      "image": "https://i1.wp.com/redditsport.cc/imgs/HBO-1.png",
-                                                                "url": "http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2217004",
-"userAgent":""
-
-    }, {
-                    "name": "FX LIVE.TO",
-                      "image": "https://www.telegratishd.com/imge/fx.png",
-                          "url": "http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2092561",
-"userAgent":""
-
-
-
-
-
-
-      }, {
-                    "name": "DHD CINEMA",
-                      "image": "https://www.cablevisionhd.com/imge/dhe.png",
-              "url": "https://nebunexa.co/red/?get=https://embed.sdfgnksbounce.com/embed2/dhe.html",
-"referer":""
-
-
-      }, {
-                    "name": "CINE TERROR",
-                      "image": "https://www.telegratishd.com/imge/terror.png",
-              "url": "https://www.telegratishd.com/terror-24-horas-en-vivo.html?referer=https://www.telegratishd.com/live4/terror.php",
-"referer":"https://nebunexa.co/red/?get="
-
-
-
-        
-         }, {
-                    "name": "CINEMA DINAMITA",
-                      "image": "https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/1588706493698-9FZI0PVBWD50JVE24B0K/network_cinemadinamita.png",
-              "url": "http://sdmx.vip:80/live/Megatvplus/pZNvewtBmjTfAe/2095398.m3u8",
-"referer":"http://streamsy.online:2999"
-
-     
-
-        
-
-
-
-     
-      }, {
-                    "name": "A&E SERIES CINE",
-                      "image": "https://i1.wp.com/redditsport.cc/imgs/AE-free-live-stream.png",
-              "url": "http://sdmx.vip:80/live/Megatvplus/pZNvewtBmjTfAe/2092573.m3u8",
-"referer":""
-
-     
     
 
 	 
@@ -297,21 +86,6 @@
                
                             
 
-   }, {
-                    "name": "VIDEO ROLAS",
-                    "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lg_videorola-300x199.png",
-                    "url": "https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8",             
-               "referer":" "
-
-
-
- }, {
-                    "name": "BANDA MAX",
-                    "image": "https://tse2.mm.bing.net/th?id=OIP.1G2duTUirfpipQQ-xEO-8gHaHa&pid=Api&P=0&h=220",
-                    "url": "http://nffthex0kzt.xyz/play/ajhIGYTV3ViBNYPrOzlFjemaFRWqc0AYAVDpIqRlF1282Zm6HKbPnPlpPq3mVtR7/.m3u8",             
-                "userAgent":"kY93bMe0x5gNCp8pGSHfPZFjU6bw7vbjj1v3HB7KmpuzbPbWVWe8UBV8tkwNZ2mc48YCb8272zLKPPebVhcFPSkT8DaAbtGCYeaVTt44EVEtg8b36Z3pmVz4x6UZWdk"
-           
-            
 
                
                     
