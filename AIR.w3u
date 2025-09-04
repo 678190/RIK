@@ -43,12 +43,12 @@
                     
     }, {
 
-                  "name": "UFC",
-                      "image": "https://tv.goluchas.com/wp-content/uploads/2022/04/Ultimate-Fighting-Championship-UFC-Logo.png",
-                                           "url": "http://fl1.moveonjoy.com/UFC/index.m3u8",
-"Host":true       
-
-  
+                  "name": "TV POR INTERNET",
+                      "image": "",
+     "url":"https://live.saohgdasregions.fun/stream.php?canal=natgeo&target=2",
+                     "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+               
+                   
 
 
 
