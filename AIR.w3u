@@ -59,10 +59,10 @@
 
                 }, 
                 { 
-                "name": "📶YYYY",
-                "image": "https://hutbelief.net/embed/eflb8gathr4gtu", 
-                "url": "https://hutbelief.net/embed/eflb8gathr4gtu", 
-"referer":"https://rereyano.ru/player/lib.js?2xxx9"
+                "name": "📶BUD TV 1",
+                "image": "", 
+                "url": "http://w.btv.mx/web/play-live/?t=6", 
+"referer":"https://code.jquery.com/jquery-3.2.1.js"
 
 
 
@@ -71,18 +71,18 @@
 
 	 
    }, {
-                  "name": "DE PELICULA MEX",
+                  "name": "BUD TV 2",
                     "image": "http://tvpremiumhd.com/envivo/img/tv-depelicula.png",
-             "url": "http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10856",
-"userAgent":""
+             "url": "http://w.btv.mx/web/play-live/?t=6",
+"referer":"https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C600%2C700&ver=1.53"
 
 
                 },
                 {
-                    "name": "SENIAL COMBATE AMERICA",
+                    "name": "BUD TV 4",
                     "image": "https://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/featuredImage.jpg?auto=&fit=fill&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75",
-                      "url": "https://www.cxtvlive.com/live-tv/combate-global",
-                       "referer":"https://www.cxtvlive.com/live-tv/combate-global"
+                      "url": "http://w.btv.mx/web/play-live/?t=6",
+                       "referer":"https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"
                
                             
 
