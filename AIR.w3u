@@ -10,10 +10,11 @@
       "image": "https://www.howtogeek.com/wp-content/uploads/2017/01/roku-rebooting.gif",
       "stations": [
 {
-                                  "name": "📶TELEMUNDO teszz",
+                                  "name": "📶TELEMUNDO tv inter 2",
                     "image": " ",
-    "url":"https://live.saohgdasregions.fun/stream.php?canal=telemundo51&target=3",
-                     "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+    "url":"https://live.saohgdasregions.fun/stream.php?canal=telemundo51&target=1",
+                     "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+"userAgent":"https://www.tvporinternet2.com/canal-5-en-vivo-por-internet.html"
                
                    
 
