@@ -10,10 +10,11 @@
       "image": "https://www.howtogeek.com/wp-content/uploads/2017/01/roku-rebooting.gif",
       "stations": [
 {
-                                  "name": "📶TELEMUNDO😁",
+                                  "name": "📶TELEMUNDO test",
                     "image": " ",
-    "url":"https://embed.saohgdasregions.fun/embed/univision.html",
-                     "referer":"https://www.cablevisionhd.com/univision-en-vivo.html"
+    "url":"https://www.tvporinternet2.com/live4/telemundo51.php",
+                     "UserAgent":"https://bvtpk.com/tag.min.js",
+"referer":"https://www.tvporinternet2.com"
 
                
                    
