@@ -80,10 +80,10 @@
 
                 },
                 {
-                    "name": "BUD TV 4",
+                    "name": "BUD Lara 2",
                     "image": "https://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/featuredImage.jpg?auto=&fit=fill&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75",
-                      "url": "http://w.btv.mx/web/play-live/?t=6",
-                       "referer":"https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"
+                      "url": "https://vix.com/es-es/canales/destacados/channel-callsign-Z043",
+                       "referer":"https://w3.mp.lura.live/lura-player/web/4.0.19/lura-player.js"
                
                             
 
