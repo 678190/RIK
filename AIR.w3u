@@ -72,30 +72,27 @@
 
 	 
    }, {
-                  "name": "Laura live vix 1111",
+                  "name": "UNIMAS streaming-live",
                     "image": "http://tvpremiumhd.com/envivo/img/tv-depelicula.png",
-             "url": "https://vix.com/es-es/canales/destacados/channel-callsign-Z071",
-"UserAgent":"https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
-"referer":"https://w3.mp.lura.live/lura-player/web/4.0.19/lura-player.js"
+             "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8"
+
 
 
                 },
                 {
-                    "name": "BUD Lara 55",
+                    "name": "UNIVICION streaming-live ",
                     "image": "https://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/featuredImage.jpg?auto=&fit=fill&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75",
-                      "url": "https://vix.com/es-es/canales/destacados/channel-callsign-Z043",
-                       "referer":"https://w3.mp.lura.live/lura-player/web/4.0.19/lura-player.js",
-                        "embed":true
-               
+                      "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8"
+                 
                             
 
 
                
                     
                          }, {
-                    "name": "NICK INFANTIL",
+                    "name": "TUDN streaming-live ",
                       "image": "https://vertelevisionenvivo.com/wp-content/uploads/2021/06/image.png",
-                 "url":"http://belami.top/DATAS/arm/plays.php?ch=147&f=.m3u8",
+                 "url":"https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
                      "userAgent":""
 
 
