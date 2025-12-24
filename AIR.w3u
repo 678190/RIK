@@ -55,9 +55,9 @@
 
 
     }, {
-                    "name": "tes VTV",
+                    "name": "tes VTV 200",
                       "image": "",
-                     "url":"http://199.127.63.105:8989/168559_531.ts",
+                     "url":"http://199.127.63.105:8989/168559_531.m3u8",
                      "userAgent":"https://openfpcdn.io/fingerprintjs/v4"
                
               
