@@ -55,10 +55,10 @@
 
 
     }, {
-                    "name": "USA24/7",
+                    "name": "tes VTV",
                       "image": "",
-                     "url":"https://live.tv247us.com/tv247/usanw.m3u8",
-                     "userAgent":"https://tv247.us/wp-content/plugins/advanced-floating-content-lite/public/js/advanced-floating-content-public.js?ver=1.0.0"
+                     "url":"http://199.127.63.105:8989/168559_531.ts",
+                     "userAgent":"https://openfpcdn.io/fingerprintjs/v4"
                
               
 
