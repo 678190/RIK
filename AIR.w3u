@@ -92,14 +92,13 @@
                  ¨embed¨:true
 
                
-                    
-                         }, {
-                    "name": "TUDN streaming-live test111 ",
+             }, {
+                    "name": "amc 5--",
                       "image": "https://vertelevisionenvivo.com/wp-content/uploads/2021/06/image.png",
-                 "url":"https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
-                     "Setting":App->MX Payer->Permissions->Music and audio->Allow/Enable
-
-
+                 "url":"http://190.11.225.124:5000/live/amc_hd/playlist.m3u8",
+                     "userAgent":""
+        
+           
 
         }, {
                     "name": "amc 5--",
@@ -109,10 +108,10 @@
 
 
    }, {
-                    "name": "discovery",
+                    "name": "watchsports.sbs/",
                       "image": "https://vertelevisionenvivo.com/wp-content/uploads/2021/06/image.png",
-                 "url":"http://190.11.225.124:5000/live/discovery_hd/playlist.m3u8",
-                     "userAgent":""
+                 "url":"https://voodc.com/embed/1/85818c999f8b9e86847a8597a38b98868d82.html",
+                     "userAgent":"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js"
 
 
  }
