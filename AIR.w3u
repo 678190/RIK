@@ -100,18 +100,6 @@
         
            
 
-        }, {
-                    "name": "amc 5--",
-                      "image": "https://vertelevisionenvivo.com/wp-content/uploads/2021/06/image.png",
-                 "url":"http://190.11.225.124:5000/live/amc_hd/playlist.m3u8",
-                     "userAgent":""
-
-
-
-
-
-
-
 
 
  }
@@ -151,11 +139,7 @@
 "referer":"https://bolaloca.my/player/lib.js?25x"
 
 
-  }, {
-                    "name": "telegratis 11",
-                      "image": "",
-                    "url": "https://dawngloom.live/embed/NjkuMjQ5LjIwOC4yNg",
-"referer":"https://bolaloca.my/player/lib.js?25x"
+
 
 
 
