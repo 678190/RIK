@@ -27,10 +27,10 @@
                    
 
     }, {
-                    "name": "📶sacado de daddy",
+                    "name": "📶sacado de daddy2025",
                       "image": "https://deporte-libre.top/img/tudn.png",
-                      "url":"https://player.freecdnllm.sbs/embed/a-e-usa",
-                     "referer":"https://cdn.plyr.io/3.7.8/plyr.js"
+                      "url":"https://cdn-live.tv/api/v1/channels/player/?name=usa+network&code=us&user=cdnlivetv&plan=free",
+                     "referer":"https://api.cdn-live.tv/api/v1/non-javascript/"
 
 
 
