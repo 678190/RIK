@@ -37,15 +37,35 @@
                     "name": "📶GALAVISION PRUB 1",
                       "image": "",
                       "url":"https://embedkclx.sbs/premiumtv/daddyhd.php?id=743",
-                     "referer":"https://st.chatango.com/js/gz/emb.js"
+                     "referer":"https://dlstreams.top/stream/stream-743.php",
+                     "embed":true
                  
 
  }, {
                     "name": "📶GALAVISION PRUB 2",
                       "image": "",
-                      "url":"https://dlstreams.top/stream/stream-743.php",
-                     "referer":"https://st.chatango.com/js/gz/emb.js"
+                      "url":"https://embedkclx.sbs/premiumtv/daddyhd.php?id=743",
+                     "referer":"https://dlstreams.top/watch.php?id=743",
+                    "embed":true
                  
+ }, {
+                    "name": "📶GALAVISION PRUB 3",
+                      "image": "",
+                      "url":"https://dlstreams.top/stream/stream-743.php",
+                     "referer":"https://dlstreams.top/watch.php?id=743",
+                    "embed":true
+                 
+
+ }, {
+                    "name": "📶GALAVISION PRUB 4",
+                      "image": "",
+                      "url":"https://dlstreams.top/stream/stream-743.php",
+                     "referer":"https://embedkclx.sbs/premiumtv/daddyhd.php?id=743",
+                    "EMBED":true
+                 
+
+
+
 
 
 
