@@ -39,13 +39,14 @@
                     "name": "📶gala 1",
                       "image": "https://deporte-libre.top/img/tudn.png",
                       "url":"https://dlstreams.top/stream/stream-743.php",
-                     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+                     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+                     "embed":true
 
 
  }, {
                     "name": "📶gala 2",
                       "image": "https://deporte-libre.top/img/tudn.png",
-                      "url":"https://dlstreams.top/stream/stream-743.php",
+                      "url":"https://embedkclx.sbs/premiumtv/daddyhd.php?id=743",
                      "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
                      "embed":true
 
