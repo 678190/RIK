@@ -33,16 +33,21 @@
                      "embed":true
 
 
-  }, {
-                    "name": "📶GALAVISION PRUB 1",
-                      "image": "",
-                      "url":"https://dlstreams.top/stream/stream-743.php",
-                     "referer":"Mozilla/5.0 ([^)]+) AppleWebKit/[0-9.]+ (KHTML, like Gecko) Chrome/([0-9]+)[0-9\.]+ Safari/[0-9.]+$/))var r=",
-                     "embed":true
                  
 
+ }, {
+                    "name": "📶gala 1",
+                      "image": "https://deporte-libre.top/img/tudn.png",
+                      "url":"https://dlstreams.top/stream/stream-743.php",
+                     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
 
 
+ }, {
+                    "name": "📶gala 2",
+                      "image": "https://deporte-libre.top/img/tudn.png",
+                      "url":"https://dlstreams.top/stream/stream-743.php",
+                     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+                     "embed":true
 
 
 
