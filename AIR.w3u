@@ -36,11 +36,11 @@
                  
 
  }, {
-                    "name": "📶gala 1",
+                    "name": "📶PRUB 1 M3U8",
                       "image": "https://deporte-libre.top/img/tudn.png",
-                      "url":"https://dlstreams.top/stream/stream-743.php",
-                     "referer":"https://dlstreams.top/watch.php?id=743",
-                     "embed":true
+                      "url":"http://23.239.31.26:8989/amc/index.m3u8",
+                     "referer":""
+                  
 
 
  }, {
