@@ -45,10 +45,10 @@
 
  }, {
                     "name": "📶TELELIBRE",
-                      "image": "https://deporte-libre.top/img/tudn.png",
-                      "url":"https://cointv.site/canales.php?id=unimas",
-                     "referer":"https://cdn.jsdelivr.net/npm/console-ban@4.1.0/dist/console-ban.min.js",
-                     "EMBED":true
+                      "image": "",
+                      "url":"https://vix.com/es-es/canales",
+                     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+                     "embed":true
 
  }, {
                     "name": "📶gala 35",
