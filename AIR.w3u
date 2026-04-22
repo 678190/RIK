@@ -44,18 +44,18 @@
 
 
  }, {
-                    "name": "📶TELELIBRE",
+                    "name": "📶PLUTO 2",
                       "image": "",
-                      "url":"https://vix.com/es-es/canales",
-                     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
-                     "embed":true
+                      "url":"https://pluto.tv/us/live-tv/686c1c873ffa5e0c91a85938?lang=es",
+                     "userAgent":"https://cdn.cookielaw.org/consent/afca56b6-a5ac-4397-be4a-7074758d8bef/otSDKStub.js"
+                   
 
  }, {
-                    "name": "📶gala 35",
+                    "name": "📶PLUTO TV 1",
                       "image": "https://deporte-libre.top/img/tudn.png",
-                      "url":"https://embedkclx.sbs/premiumtv/daddyhd.php?id=743",
-                     "referer":"https://dlstreams.top/watch.php?id=743",
-                     "embed":true
+                      "url":"https://pluto.tv/us/live-tv/686c1c873ffa5e0c91a85938?lang=es",
+                     "referer":"https://pluto.tv/assets/scripts/omid-session-client-v1-545709ecc6fdb83b0270d092012a34d1.js"
+                 
 
 
 
