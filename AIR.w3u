@@ -44,10 +44,10 @@
 
 
  }, {
-                    "name": "📶PLUTO 2",
+                    "name": "📶XPANEL TV",
                       "image": "",
-                      "url":"https://pluto.tv/us/live-tv/686c1c873ffa5e0c91a85938?lang=es",
-                     "userAgent":"https://cdn.cookielaw.org/consent/afca56b6-a5ac-4397-be4a-7074758d8bef/otSDKStub.js"
+                      "url":"http://xpaneltv.com:8080/Alirf/78587421/52148",
+                     "userAgent":"https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516"
                    
 
  }, {
