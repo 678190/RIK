@@ -205,7 +205,7 @@
 
                   "name": "RADIO EXTREMO",
                       "image": "",
-                                "url": "https://www.xtremostereo.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.xtremostereo.net%2Fdirectv-sports-en-vivoo%2F&format=xml",
+                                "url": "https%3A%2F%2Fwww.xtremostereo.net%2Fdirectv-sports-en-vivoo%2F&format=xml",
 "referer":"https://www.xtremostereo.net/directv-sports-en-vivoo/",
 "embed":true
 
