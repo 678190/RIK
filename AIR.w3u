@@ -16,24 +16,14 @@
                      "referer":"https://www.futbollibre2.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
                
                  }, {
-                    "name": "hd 1111",
+                    "name": "hd 1000",
                       "image": "",
                      "url":"https://embed.ksdjugfsddeports.com/embed2/cinemax.html",
-                     "referer":"https://waust.at/d.js"
+                     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36
+sec-ch-ua: "Chromium";v="86", "\"Not\\A;Brand";v="99", "Google Chrome";v="86"
+sec-ch-ua-mobile: ?0"
                
-                  }, {
-                    "name": "hd 2",
-                      "image": "",
-                     "url":"https://embed.ksdjugfsddeports.com/embed2/cinemax.html",
-                     "userAgent":"XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo"
-                            
-                 }, {
-                    "name": "hd 3",
-                      "image": "",
-                     "url":"https://embed.ksdjugfsddeports.com/embed2/cinemax.html",
-                     "referer":"https://www.tvporinternet2.com/"
-                            
-                      
+       
 
 
     }, {
