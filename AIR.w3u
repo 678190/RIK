@@ -22,12 +22,12 @@
                      "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36sec-ch-ua: Chromium;v=86, Not/A;Brand;v=99, Google Chrome;v=86sec-ch-ua-mobile: ?0"
                
           }, {
-                    "name": "STEMIFY11",
+                    "name": "STEMIFYyy",
                       "image": "",
-                     "url":"https://cdn.stmify.com/teliatv/embed/fx",
-                     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-                     "referer":"https://frontillano.blogspot.com/2026/06/test.html",
+                     "url":"https://cdn.stmify.com/izzigo/embed/mtv",
+                        "referer":"https://cdn.stmify.com/izzigo/live-tv/mtv",
                  "embed":true
+               
                
 
 
